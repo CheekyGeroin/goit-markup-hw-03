@@ -282,9 +282,11 @@ ul {
 .portfolio-title {
   opacity: 0;
 }
-.lists.button {
+.lists-button {
+  display: flex;
   justify-content: center;
   margin-bottom: 50px;
+  list-style: none;
 }
 .button-item {
   margin-right: 8px;
