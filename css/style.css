@@ -312,6 +312,7 @@ img{
   letter-spacing: 0.03em;
   border-radius: 4px;
   border: 1px solid transparent;
+  padding: 6px 22px;
 
 }
 .button:hover,
